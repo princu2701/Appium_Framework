@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-19T14:10:39 IST" name="Default suite" finished-at="2024-09-19T14:11:43 IST" duration-ms="64019">
+    <groups>
+    </groups>
+    <test started-at="2024-09-19T14:10:39 IST" name="Default test" finished-at="2024-09-19T14:11:43 IST" duration-ms="64019">
+      <class name="frametest.maintest">
+        <test-method is-config="true" signature="bt()[pri:0, instance:frametest.maintest@15888343]" started-at="2024-09-19T14:10:39 IST" name="bt" finished-at="2024-09-19T14:11:42 IST" duration-ms="63549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="test1()[pri:0, instance:frametest.maintest@15888343]" started-at="2024-09-19T14:11:43 IST" name="test1" finished-at="2024-09-19T14:11:43 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- frametest.maintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
